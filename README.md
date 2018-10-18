@@ -1,0 +1,2 @@
+# sampleNYT
+NY Times
