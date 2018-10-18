@@ -447,7 +447,7 @@
 				DEVELOPMENT_TEAM = 52XM378D3W;
 				INFOPLIST_FILE = RK_SideMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.damaka.mocacert;
+				PRODUCT_BUNDLE_IDENTIFIER = com.divya.sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "ae88ac01-f0b7-43a5-8a24-1390b2149eb0";
 				PROVISIONING_PROFILE_SPECIFIER = "Moca Provision profile";
@@ -462,7 +462,7 @@
 				DEVELOPMENT_TEAM = 52XM378D3W;
 				INFOPLIST_FILE = RK_SideMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.damaka.mocacert;
+				PRODUCT_BUNDLE_IDENTIFIER = com.divya.sample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "ae88ac01-f0b7-43a5-8a24-1390b2149eb0";
 				PROVISIONING_PROFILE_SPECIFIER = "Moca Provision profile";
